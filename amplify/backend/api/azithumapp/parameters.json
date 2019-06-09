@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "azithumapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}
